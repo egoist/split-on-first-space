@@ -17,6 +17,10 @@ splitOnFirstSpace('warning: this is not drill')
 //=> ['warning:', 'this is not drill']
 ```
 
+## Related
+
+- [split-space](https://github.com/egoist/split-space): Split string by space but ignore spaces in quoted string.
+
 ## License
 
 MIT © [EGOIST](https://github.com/egoist)
