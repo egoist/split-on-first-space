@@ -1,0 +1,32 @@
+{
+  "name": "split-on-first-space",
+  "version": "0.0.0",
+  "description": "Split string on the first white space occurence.",
+  "license": "MIT",
+  "repository": "egoist/split-on-first-space",
+  "author": {
+    "name": "EGOIST",
+    "email": "0x142857@gmail.com",
+    "url": "github.com/egoist"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "split"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.10.0",
+    "xo": "^0.12.1"
+  },
+  "xo": {
+    "semicolon": false
+  }
+}
