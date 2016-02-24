@@ -1,6 +1,6 @@
 {
   "name": "split-on-first-space",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Split string on the first white space occurence.",
   "license": "MIT",
   "repository": "egoist/split-on-first-space",
